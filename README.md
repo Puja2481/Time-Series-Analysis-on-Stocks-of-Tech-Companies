@@ -1,5 +1,6 @@
 # Time-Series-Analysis-on-Stocks-of-Tech-Companies
 The original dataset is from :- https://www.kaggle.com/camnugent/sandp500?select=all_stocks_5yr.csv
+
 You tube link for explanation :- https://www.youtube.com/watch?v=dS-yOOkM8gY
 
 It is the S&P500 dataset which contains data related to stocks of 500 different tech companies. In this analysis I have choosen four companies (Apple, Amazon, Microsoft and google). You can choose any number of companies for this analysis.
